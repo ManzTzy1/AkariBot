@@ -107,7 +107,7 @@ global.sc = `╭───⌜ *Script* ⌟──❑
 │▸ *Base Ori By Dika Ardnt*
 │▸ github: https://www.github.com/DikaArdnt/Hisoka-Morou
 │▸ *Recode By Manz Tzy*
-│▸ sc: https://www.github.com/manzkun/akari
+│▸ sc: https://www.github.com/ManzTzy1/AkariBot
 ╰───⌜ *${bot}* ⌟─❑`
 
 global.sdkm = '```Mohon Di Patuhi Peraturan Ini Terma Kasih 🙏```'
